@@ -1,0 +1,9 @@
+// src/styles/custom-variables.scss
+
+// Variables personalizadas de Bootstrap
+$primary-color: #007bff;
+$secondary-color: #6c757d;
+$font-family-base: 'Arial', sans-serif;
+
+// Importar Bootstrap
+@import "~bootstrap/scss/bootstrap";
